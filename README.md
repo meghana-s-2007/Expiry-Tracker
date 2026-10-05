@@ -3,13 +3,15 @@
 A simple Python desktop application to track food expiry dates and get timely reminders. ⏰
 
 ## ✨ Features
-- 📅 Add & manage products
-- 🔔 Expiry reminders
+- 📅 Add fruits, vegetables, dairy and more with expiry dates
+- 🔔 Alerts for items expiring soon
 - 🚦 Safe, Expiring Soon & Expired status
-- 🗂️ Category-wise tracking
+- 🔍 Search your stored items
+- 📊 Dashboard with totals
+- 📄 Export a CSV report
 
 ## 🛠️ Built With
-🐍 Python · 🎨 CustomTkinter · 🗄️ SQLite · 🔔 Plyer · 📊 Matplotlib
+🐍 Python · 🎨 CustomTkinter · 📅 tkcalendar · 🗄️ SQLite
 
 ## 🚀 Installation
 ```
