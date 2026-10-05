@@ -23,3 +23,10 @@ python main.py
 
 ## 🎯 Goal
 Reduce food waste by helping users keep track of expiry dates. 🌱
+
+## 📸 Screenshots
+
+![Main Screen](Screenshots/main-screen.png)
+![Add Item](Screenshots/add-item.png)
+![Stored Items](Screenshots/stored-items.png)
+![Dashboard](Screenshots/dashboard.png)
