@@ -1,3 +1,2 @@
 customtkinter
-matplotlib
-plyer
+tkcalendar
