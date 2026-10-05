@@ -160,12 +160,8 @@ def edit_product(name, old_expiry, old_reminder,parent_window):
 
     def save_changes():
 
-        update_product(
-            name,
-            expiry_entry.get(), update_dashboard(),
-            int(reminder_entry.get())
-        )
-
+        update_product(name, expiry_entry.get(), int(reminder_entry.get()))
+        update_dashboard()
         messagebox.showinfo(
             "Success",
             f"{name} updated successfully!"
